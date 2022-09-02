@@ -1,0 +1,3 @@
+#!/bin/bash
+chmod 111 hello
+Ascript that sets permission of the fille HELLO to : 1. Owner -no permission at all 2.Group: no permission at all 3.Other users: all the permissions
