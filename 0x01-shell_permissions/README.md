@@ -7,3 +7,4 @@ A script that adds executive permission to the owner and the group owner, and re
 Task 6. A script that adds execute permission to the owner and the group owner, and read permission to others
 Task 7 : A script that adds execution permission to the owner,the group owner and the other users to the file
 Task 8. A script that sets the permission to the file HELLO as follows: 1.Owner :no permission at all 2.Group : no permission at all 3.Other users :all the permissions
+Task 9 : A script that sets the mode of the file hello to -rwxr-x-wx
