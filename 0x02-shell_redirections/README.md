@@ -13,3 +13,4 @@ Task 7
 Task 8 : A task that writes into the file ls_cwd_content the result of the command ls -la
 Task 9 : A script that displays the last line of the file iacta
 Task 9 :A script that displays the last line of iacta
+Task 10 : A task that 
