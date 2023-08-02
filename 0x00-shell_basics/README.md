@@ -1,4 +1,10 @@
 Move the file betty from /tmp/ to /tmp/my_first_directory
+
 8. Delete the file betty.
+<<<<<<< HEAD
 10. A script that changes the working directory to the previous one.
 a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
+=======
+
+9. A script that changes the working directory to the previous one.
+>>>>>>> 0427d15fbe0c2c82383eae35b5a6947f279d0b58
