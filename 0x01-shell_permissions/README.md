@@ -7,3 +7,4 @@ A script that prints the effrctive usename of the current user
 6. A script that adds execute permission to the owner and the group owner  and read permission to other users, to the file hello.
 7. A script that adds execution permission to the owner, the group owner and the other users to the file hello
 8. A script that sets no permission for owner and group and all permissions for other users
+9. A script that sets the ownership of the file hello to -rwxr-x-wx
